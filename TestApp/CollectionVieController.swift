@@ -2,7 +2,7 @@
 //  CollectionVieController.swift
 //  TestApp
 //
-//  Created by Estudiante on 27/10/18.
+//  Created by Sair Martinez on 27/10/18.
 //  Copyright © 2018 Capla. All rights reserved.
 //
 

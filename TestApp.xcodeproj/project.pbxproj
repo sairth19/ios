@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DB8215CA218D1D0200DBAEC6 /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8215C9218D1D0200DBAEC6 /* CustomCell.swift */; };
+		DB8215CE218D26A100DBAEC6 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8215CD218D26A100DBAEC6 /* User.swift */; };
+		DB8215D0218D329600DBAEC6 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8215CF218D329600DBAEC6 /* DetailsViewController.swift */; };
 		DB8A43382184A4940041C63F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8A43372184A4940041C63F /* AppDelegate.swift */; };
 		DB8A433A2184A4940041C63F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB8A43392184A4940041C63F /* ViewController.swift */; };
 		DB8A433D2184A4940041C63F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DB8A433B2184A4940041C63F /* Main.storyboard */; };
@@ -18,6 +21,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DB8215C9218D1D0200DBAEC6 /* CustomCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
+		DB8215CD218D26A100DBAEC6 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		DB8215CF218D329600DBAEC6 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
 		DB8A43342184A4940041C63F /* TestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB8A43372184A4940041C63F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DB8A43392184A4940041C63F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -69,6 +75,9 @@
 				DB8A434B2184D40E0041C63F /* Extension.swift */,
 				DB8A434D2184DCD20041C63F /* Array.swift */,
 				DB8A434F2184DF4A0041C63F /* CollectionVieController.swift */,
+				DB8215C9218D1D0200DBAEC6 /* CustomCell.swift */,
+				DB8215CD218D26A100DBAEC6 /* User.swift */,
+				DB8215CF218D329600DBAEC6 /* DetailsViewController.swift */,
 			);
 			path = TestApp;
 			sourceTree = "<group>";
@@ -147,8 +156,11 @@
 				DB8A434C2184D40E0041C63F /* Extension.swift in Sources */,
 				DB8A434E2184DCD20041C63F /* Array.swift in Sources */,
 				DB8A433A2184A4940041C63F /* ViewController.swift in Sources */,
+				DB8215D0218D329600DBAEC6 /* DetailsViewController.swift in Sources */,
 				DB8A43382184A4940041C63F /* AppDelegate.swift in Sources */,
+				DB8215CA218D1D0200DBAEC6 /* CustomCell.swift in Sources */,
 				DB8A43502184DF4A0041C63F /* CollectionVieController.swift in Sources */,
+				DB8215CE218D26A100DBAEC6 /* User.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
